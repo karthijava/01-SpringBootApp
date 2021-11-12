@@ -5,5 +5,9 @@ public class Car {
 	{
 		
 	}
+        public void stop()
+	{
+		
+	}
 
 }
