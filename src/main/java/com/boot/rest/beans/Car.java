@@ -1,9 +1,9 @@
 package com.boot.rest.beans;
 
 public class Car {
-	public void start()
+	public void starts()
 	{
-		//changes for HIS-122
+		
 	}
 
 }
